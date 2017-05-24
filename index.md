@@ -1,12 +1,14 @@
 ## IDEA
 
 In an ideal world for ecological modellers, we would all use the same building blocks (subroutines) to develop our models. These building blocks would be collected in an open repository where they could undergo peer-review and testing. In this ideal world, ecological modelling would not use a repetitive workflow where the same thing is developed over and over again.
+
 To get to this point, the YoMos (Young Modelleres in Ecology), a working group of the GfÖ, thought of initializing this idea by creating a public repository on github, which could be used to collect such subroutines. If successful, this repository can be integrated in a database to make it searchable and have a more user friendly interface. The github repository itself with issues and all its other features can be used to establish a peer-review workflow.
 
 ### Subroutines
 “In computer programming, a subroutine is a sequence of program instructions that perform a specific task, packaged as a unit. This unit can then be used in programs wherever that particular task should be performed.” (Wikipedia article on subroutines)
 
 Without the consideration of specific parameterizations, general routines in ecology should behave the same regardless of their area of application. For example, if an animal performs a random walk, the random walk of a different animal occurring in a different location should be the same – only differing in its parameterization. These general blocks of ecological modelling are hence reusable, but seldom shared or widely re-implemented in different models.
+
 In our view every, an interesting subroutine could for example be one of the following:
 
 [fancy graph with more content than this version]
